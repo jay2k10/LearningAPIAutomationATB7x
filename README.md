@@ -11,6 +11,4 @@ Extent Report (4.0.9) Older Version
 ![image](https://github.com/user-attachments/assets/4df79049-5722-4afe-b0ae-45547d612833)
 
 https://github.com/user-attachments/files/15879751/API.Testing.Class.Day.15.-.RA.pdf
-https://github.com/user-attachments/files/15879753/Maven.Mastery.pdf
-https://github.com/user-attachments/files/15907774/TestNG.Mastery.pdf
 
