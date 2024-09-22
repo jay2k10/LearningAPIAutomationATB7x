@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="LearningAPIAutomationATB7x">
+        <classes>
+            <class name="com.testingacademy.ex_15092024.CURD.PUT.NonBDDPUTStyle">
+                <!--<methods>
+                    <include name="test_get"/>
+                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>

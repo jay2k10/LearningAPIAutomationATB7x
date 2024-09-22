@@ -15,6 +15,6 @@ public class NoDesignPattern {
         NoDesignPattern np = new NoDesignPattern();
         np.step1();
         np.step2();
-        np.step3("jay");
+        np.step3("jay Shankar");
     }
 }

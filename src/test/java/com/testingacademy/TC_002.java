@@ -14,7 +14,7 @@ public class TC_002 {
         RestAssured
                 .given()
                 .baseUri("https://restful-booker.herokuapp.com")
-                .basePath("/booking/1").log().all()
+                .basePath("/booking/2170").log().all()
                 .when()
                 .get()
                 .then().log().all()

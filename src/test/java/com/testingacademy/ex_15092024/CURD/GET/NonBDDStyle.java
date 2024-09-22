@@ -7,7 +7,7 @@ public class NonBDDStyle {
     static RequestSpecification r = RestAssured.given();
 
     public static void main(String[] args) {
-//        r.useRelaxedHTTPSValidation("TLS""); - HTTPs related issued
+       // r.useRelaxedHTTPSValidation("TLS""); - HTTPs related issued
         r.baseUri("https://api.zippopotam.us");
         testnon_bdd_1();
         testnon_bdd_2();

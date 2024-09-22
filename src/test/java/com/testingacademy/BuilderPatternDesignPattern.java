@@ -21,6 +21,6 @@ public class BuilderPatternDesignPattern {
 
     public static void main(String[] args) {
         BuilderPatternDesignPattern bdp = new BuilderPatternDesignPattern();
-        bdp.Floor1().Floor2("jay").Floor3();
+        bdp.Floor1().Floor2("Jay Shankar").Floor3();
     }
 }

@@ -23,7 +23,6 @@ public class BDDStyleGet {
         // BDD - Framework different - Gherkin Syntax - (given, when, then)
         // Non BDD and still Gherkin syntax (using classes)
 
-
         // given ->
         // URL
         // HEADER ?, Cookies
@@ -31,12 +30,9 @@ public class BDDStyleGet {
         // basePath = /IN/560037
         // Auth - Basic, Digest, JWT, Bearer Token, OAuth 2.0 ? = No
 
-
         // When  ->
         // PaYLOAD - ? NO/yES - JSON. XML  -> String, Hashmap, Object class
         // GET Method
-
-
 
         // Then()
         // Response Validation
@@ -46,10 +42,6 @@ public class BDDStyleGet {
 
         test1();
         test2();
-
-
-
-
     }
 
     private static void test2() {
