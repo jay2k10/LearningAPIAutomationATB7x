@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="LearningAPIAutomationATB7x">
+        <classes>
+
+            <class name="com.testingacademy.ex_21092024.testngexamples.CRUD.E2ERestBookerTest">
+                <methods>
+                    <include name="deleteBooking"></include>
+                    <include name="getBookingIDAfterDelete"></include>
+                    <include name="updateBookingID"></include>
+                <!--  <include name="test_after_delete_request_get"></include> -->
+              </methods>
+
+            </class>
+        </classes>
+    </test>
+</suite>
